@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://shakao-test.github.io/skillmap-branch/](https://shakao-test.github.io/skillmap-branch/)
+> Open this page at [https://riknoll.github.io/skillmap-branch/](https://shakao-test.github.io/skillmap-branch/)
 
 ## Use as Extension
 
