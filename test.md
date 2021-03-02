@@ -31,12 +31,8 @@
 * tags: easy
 
 ### shark-C-1
-* name: Linear C-1
-* type: tutorial
+* kind: reward
 * next: shark-D-1, shark-D-2
-* description: Create a main character that shoots some projectiles
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
-* tags: easy
 
 ### shark-C-2
 * name: Linear C-2
@@ -61,11 +57,7 @@
 * tags: easy
 
 ### shark-E
-* name: Linear E
-* type: tutorial
-* description: Create a main character that shoots some projectiles
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
-* tags: easy
+* kind: completion
 
 
 ## nonlinear
