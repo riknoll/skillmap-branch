@@ -1,6 +1,7 @@
 # branching
 * name: Branching Skill Map
 * description: Various branching skill map layouts
+* backgroundurl: https://raw.githubusercontent.com/riknoll/skillmap-branch/master/images/shark-attack-bg.png
 
 ## shark
 * name: Shark Splash
