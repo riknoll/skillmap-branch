@@ -2,8 +2,8 @@
 * name: Branching Skill Map
 * description: Various branching skill map layouts
 * backgroundurl: https://raw.githubusercontent.com/riknoll/skillmap-branch/master/images/shark-attack-bg.png
-* primarycolor: #87f2ff
-* secondarycolor: #ff93c4
+* primarycolor: #ff93c4
+* secondarycolor: #87f2ff
 * tertiarycolor: #5c406c
 * strokecolor: #5c406c
 
